@@ -7,9 +7,7 @@ import pandas as pd
 class Model_Finder:
     """
                 This class shall  be used to find the model with best accuracy and AUC score.
-                Written By: iNeuron Intelligence
-                Version: 1.0
-                Revisions: None
+                
 
                 """
 
@@ -27,9 +25,7 @@ class Model_Finder:
                                 Output: The model with the best parameters
                                 On Failure: Raise Exception
 
-                                Written By: iNeuron Intelligence
-                                Version: 1.0
-                                Revisions: None
+                                
 
                         """
         self.logger_object.log(self.file_object, 'Entered the get_best_params_for_random_forest method of the Model_Finder class')
@@ -73,9 +69,7 @@ class Model_Finder:
                                                 Output: The model with the best parameters
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
-                                                Version: 1.0
-                                                Revisions: None
+                                    
 
                                         """
         self.logger_object.log(self.file_object,
@@ -176,9 +170,7 @@ class Model_Finder:
                                                 Output: The best model name and the model object
                                                 On Failure: Raise Exception
 
-                                                Written By: iNeuron Intelligence
-                                                Version: 1.0
-                                                Revisions: None
+                                                
 
                                         """
         self.logger_object.log(self.file_object,

@@ -10,9 +10,7 @@ class dBOperation:
     """
           This class shall be used for handling all the SQL operations.
 
-          Written By: iNeuron Intelligence
-          Version: 1.0
-          Revisions: None
+          
 
           """
 
@@ -31,9 +29,7 @@ class dBOperation:
                         Output: Connection to the DB
                         On Failure: Raise ConnectionError
 
-                         Written By: iNeuron Intelligence
-                        Version: 1.0
-                        Revisions: None
+                        
 
                         """
         try:
@@ -57,9 +53,7 @@ class dBOperation:
            Output: None
            On Failure: Raise Exception
 
-            Written By: iNeuron Intelligence
-           Version: 1.0
-           Revisions: None
+           
 
         """
         try:
@@ -108,9 +102,7 @@ class dBOperation:
                                        Output: None
                                        On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
-                                       Version: 1.0
-                                       Revisions: None
+                                       
 
                 """
 
@@ -158,9 +150,7 @@ class dBOperation:
                                        Output: None
                                        On Failure: Raise Exception
 
-                                        Written By: iNeuron Intelligence
-                                       Version: 1.0
-                                       Revisions: None
+                                       
 
                 """
 

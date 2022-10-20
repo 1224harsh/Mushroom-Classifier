@@ -19,3 +19,450 @@
 2020-02-14/18:39:21		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
 2020-02-14/18:39:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
 2020-02-14/18:39:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-11/04:44:20		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-11/04:44:20		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-11/04:44:20		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-11/05:26:15		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-11/05:26:15		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-11/05:26:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-11/05:28:02		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-11/05:28:02		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-11/05:28:02		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-11/05:42:01		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-11/05:42:01		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-11/05:42:01		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-11/05:48:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-11/05:51:09		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-11/05:51:09		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-11/05:51:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-12/03:06:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:06:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:06:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:06:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:06:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:09:42		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:09:42		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:09:42		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:09:42		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:09:42		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:09:42		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-12/03:10:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-12/03:12:15		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-12/03:14:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-12/03:19:29		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-12/03:22:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:22:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:22:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:22:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:22:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:22:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:22:56		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/mushroom_08012011_120023.csv'
+2022-10-12/03:23:12		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:23:12		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:23:12		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:23:12		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:23:12		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:23:12		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:23:12		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/mushroom_08012011_120023.csv'
+2022-10-12/03:24:00		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:24:00		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:24:00		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:24:00		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:24:00		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:24:00		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:24:00		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/mushroom_08012011_120023.csv'
+2022-10-12/03:24:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:24:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:24:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:24:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:24:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:24:21		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:24:21		Error occured while validating FileName [Errno 2] No such file or directory: 'Prediction_Batch_files/mushroom_08012011_120024.csv'
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-12/03:24:35		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-12/03:27:59		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-12/03:27:59		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-12/03:27:59		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-14/04:08:51		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-14/04:08:51		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-14/04:08:51		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-20/01:24:40		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-20/01:24:40		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-20/01:24:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-20/01:27:45		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-20/01:27:45		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-20/01:27:45		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-20/01:32:48		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-20/01:32:48		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-20/01:32:48		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-20/12:01:03		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-20/12:01:03		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-20/12:01:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/01:37:09		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/01:37:09		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/01:37:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/01:41:19		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/01:41:19		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/01:41:19		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/01:43:44		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/01:43:44		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/01:43:44		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/01:44:34		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/01:44:34		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/01:44:34		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/02:07:46		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/02:07:46		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/02:07:46		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/02:09:28		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/02:09:28		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/02:09:28		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/02:12:03		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/02:12:03		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/02:12:03		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/02:15:22		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/02:16:56		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/02:16:56		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/02:16:56		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/02:18:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:18:58		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:18:58		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:18:58		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:18:58		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/02:21:40		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/02:21:40		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/02:21:40		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012006_120010.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012007_120011.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012008_120012.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012009_120013.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012010_120014.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012011_120015.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012012_120016.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012013_120017.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012014_120018.csv
+2022-10-21/02:23:09		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012015_120019.csv
+2022-10-21/02:23:09		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012016_120.csv
+2022-10-21/02:23:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012016_120020.csv
+2022-10-21/02:23:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012017_120021.csv
+2022-10-21/02:23:10		Invalid File Name!! File moved to Bad Raw Folder :: mushroom_08012017_1201.csv
+2022-10-21/02:23:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120022.csv
+2022-10-21/02:23:10		Valid File name!! File moved to GoodRaw Folder :: mushroom_08012018_120088.csv

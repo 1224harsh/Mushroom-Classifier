@@ -14,7 +14,7 @@ class train_validation:
 
     def train_validation(self):
         try:
-            self.log_writer.log(self.file_object, 'Start of Validation on files for prediction!!')
+            self.log_writer.log(self.file_object, 'Start of Validation on files for Training!!')
             # extracting values from prediction schema
             LengthOfDateStampInFile, LengthOfTimeStampInFile, column_names, noofcolumns = self.raw_data.valuesFromSchema()
             # getting the regex defined to validate filename

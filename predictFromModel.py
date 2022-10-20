@@ -7,6 +7,7 @@ from Prediction_Raw_Data_Validation.predictionDataValidation import Prediction_D
 
 
 
+
 class prediction:
 
     def __init__(self,path):
@@ -46,7 +47,7 @@ class prediction:
 
             ##Code changed
             #pred_data = data.drop(['Wafer'],axis=1)
-            clusters=kmeans.predict(data)#drops the first column for cluster prediction
+            clusters=kmeans.predict(data)
             data['clusters']=clusters
             clusters=data['clusters'].unique()
             result=[] # initialize blank list for storing predicitons
@@ -58,11 +59,13 @@ class prediction:
                 cluster_data = cluster_data.drop(['clusters'],axis=1)
                 model_name = file_loader.find_correct_model_file(i)
                 model = file_loader.load_model(model_name)
-                for val in (model.predict(cluster_data)):
-                    result.append(val)
-            result = pandas.DataFrame(result,columns=['Predictions'])
-            path="Prediction_Output_File/Predictions.csv"
-            result.to_csv("Prediction_Output_File/Predictions.csv",header=True) #appends result to prediction file
+                #for val in (model.predict(cluster_data)):
+
+                    #result.append(val)
+                result = list(model.predict(cluster_data))
+                result = pandas.DataFrame(result,columns=['Predictions'])
+                path="Prediction_Output_File/Predictions.csv"
+                result.to_csv("Prediction_Output_File/Predictions.csv",header=True) #appends result to prediction file
             self.log_writer.log(self.file_object,'End of Prediction')
         except Exception as ex:
             self.log_writer.log(self.file_object, 'Error occured while running the prediction!! Error:: %s' % ex)
